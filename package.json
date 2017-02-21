@@ -1,0 +1,18 @@
+{
+  "name": "simpleserverexpress",
+  "version": "1.0.0",
+  "description": "This is simple server on Express.js",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "ISC"
+}
